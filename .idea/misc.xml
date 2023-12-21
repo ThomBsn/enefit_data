@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.11 (seminaire-enefit)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (seminaire-enefit)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (enefit_data_pycharm)" project-jdk-type="Python SDK" />
 </project>
